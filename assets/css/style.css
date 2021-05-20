@@ -401,7 +401,7 @@ section {
 # Akills
 --------------------------------------------------------------*/
 .skills .progress {
-  height: 50px;
+  height: 100px;
   display: block;
   background: none;
 }
